@@ -1,0 +1,14 @@
+C:\clase 2\tarea 2\dias de la semana\dias de la semana\bin\Debug\net8.0\dias de la semana.exe
+C:\clase 2\tarea 2\dias de la semana\dias de la semana\bin\Debug\net8.0\dias de la semana.deps.json
+C:\clase 2\tarea 2\dias de la semana\dias de la semana\bin\Debug\net8.0\dias de la semana.runtimeconfig.json
+C:\clase 2\tarea 2\dias de la semana\dias de la semana\bin\Debug\net8.0\dias de la semana.dll
+C:\clase 2\tarea 2\dias de la semana\dias de la semana\bin\Debug\net8.0\dias de la semana.pdb
+C:\clase 2\tarea 2\dias de la semana\dias de la semana\obj\Debug\net8.0\dias de la semana.GeneratedMSBuildEditorConfig.editorconfig
+C:\clase 2\tarea 2\dias de la semana\dias de la semana\obj\Debug\net8.0\dias de la semana.AssemblyInfoInputs.cache
+C:\clase 2\tarea 2\dias de la semana\dias de la semana\obj\Debug\net8.0\dias de la semana.AssemblyInfo.cs
+C:\clase 2\tarea 2\dias de la semana\dias de la semana\obj\Debug\net8.0\dias de la semana.csproj.CoreCompileInputs.cache
+C:\clase 2\tarea 2\dias de la semana\dias de la semana\obj\Debug\net8.0\dias de la semana.dll
+C:\clase 2\tarea 2\dias de la semana\dias de la semana\obj\Debug\net8.0\refint\dias de la semana.dll
+C:\clase 2\tarea 2\dias de la semana\dias de la semana\obj\Debug\net8.0\dias de la semana.pdb
+C:\clase 2\tarea 2\dias de la semana\dias de la semana\obj\Debug\net8.0\dias de la semana.genruntimeconfig.cache
+C:\clase 2\tarea 2\dias de la semana\dias de la semana\obj\Debug\net8.0\ref\dias de la semana.dll

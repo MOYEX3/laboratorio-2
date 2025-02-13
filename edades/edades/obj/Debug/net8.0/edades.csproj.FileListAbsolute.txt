@@ -1,0 +1,14 @@
+C:\clase 2\tarea 2\edades\edades\bin\Debug\net8.0\edades.exe
+C:\clase 2\tarea 2\edades\edades\bin\Debug\net8.0\edades.deps.json
+C:\clase 2\tarea 2\edades\edades\bin\Debug\net8.0\edades.runtimeconfig.json
+C:\clase 2\tarea 2\edades\edades\bin\Debug\net8.0\edades.dll
+C:\clase 2\tarea 2\edades\edades\bin\Debug\net8.0\edades.pdb
+C:\clase 2\tarea 2\edades\edades\obj\Debug\net8.0\edades.GeneratedMSBuildEditorConfig.editorconfig
+C:\clase 2\tarea 2\edades\edades\obj\Debug\net8.0\edades.AssemblyInfoInputs.cache
+C:\clase 2\tarea 2\edades\edades\obj\Debug\net8.0\edades.AssemblyInfo.cs
+C:\clase 2\tarea 2\edades\edades\obj\Debug\net8.0\edades.csproj.CoreCompileInputs.cache
+C:\clase 2\tarea 2\edades\edades\obj\Debug\net8.0\edades.dll
+C:\clase 2\tarea 2\edades\edades\obj\Debug\net8.0\refint\edades.dll
+C:\clase 2\tarea 2\edades\edades\obj\Debug\net8.0\edades.pdb
+C:\clase 2\tarea 2\edades\edades\obj\Debug\net8.0\edades.genruntimeconfig.cache
+C:\clase 2\tarea 2\edades\edades\obj\Debug\net8.0\ref\edades.dll

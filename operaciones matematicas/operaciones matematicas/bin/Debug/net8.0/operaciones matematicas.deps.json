@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "operaciones matematicas/1.0.0": {
+        "runtime": {
+          "operaciones matematicas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "operaciones matematicas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

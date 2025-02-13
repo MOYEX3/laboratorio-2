@@ -1,0 +1,14 @@
+C:\clase 2\tarea 2\operaciones matematicas\operaciones matematicas\bin\Debug\net8.0\operaciones matematicas.exe
+C:\clase 2\tarea 2\operaciones matematicas\operaciones matematicas\bin\Debug\net8.0\operaciones matematicas.deps.json
+C:\clase 2\tarea 2\operaciones matematicas\operaciones matematicas\bin\Debug\net8.0\operaciones matematicas.runtimeconfig.json
+C:\clase 2\tarea 2\operaciones matematicas\operaciones matematicas\bin\Debug\net8.0\operaciones matematicas.dll
+C:\clase 2\tarea 2\operaciones matematicas\operaciones matematicas\bin\Debug\net8.0\operaciones matematicas.pdb
+C:\clase 2\tarea 2\operaciones matematicas\operaciones matematicas\obj\Debug\net8.0\operaciones matematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\clase 2\tarea 2\operaciones matematicas\operaciones matematicas\obj\Debug\net8.0\operaciones matematicas.AssemblyInfoInputs.cache
+C:\clase 2\tarea 2\operaciones matematicas\operaciones matematicas\obj\Debug\net8.0\operaciones matematicas.AssemblyInfo.cs
+C:\clase 2\tarea 2\operaciones matematicas\operaciones matematicas\obj\Debug\net8.0\operaciones matematicas.csproj.CoreCompileInputs.cache
+C:\clase 2\tarea 2\operaciones matematicas\operaciones matematicas\obj\Debug\net8.0\operaciones matematicas.dll
+C:\clase 2\tarea 2\operaciones matematicas\operaciones matematicas\obj\Debug\net8.0\refint\operaciones matematicas.dll
+C:\clase 2\tarea 2\operaciones matematicas\operaciones matematicas\obj\Debug\net8.0\operaciones matematicas.pdb
+C:\clase 2\tarea 2\operaciones matematicas\operaciones matematicas\obj\Debug\net8.0\operaciones matematicas.genruntimeconfig.cache
+C:\clase 2\tarea 2\operaciones matematicas\operaciones matematicas\obj\Debug\net8.0\ref\operaciones matematicas.dll

@@ -1,0 +1,14 @@
+C:\clase 2\tarea 2\operaciones logicas\operaciones logicas\obj\Debug\net8.0\operaciones logicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\clase 2\tarea 2\operaciones logicas\operaciones logicas\obj\Debug\net8.0\operaciones logicas.AssemblyInfoInputs.cache
+C:\clase 2\tarea 2\operaciones logicas\operaciones logicas\obj\Debug\net8.0\operaciones logicas.AssemblyInfo.cs
+C:\clase 2\tarea 2\operaciones logicas\operaciones logicas\obj\Debug\net8.0\operaciones logicas.csproj.CoreCompileInputs.cache
+C:\clase 2\tarea 2\operaciones logicas\operaciones logicas\bin\Debug\net8.0\operaciones logicas.exe
+C:\clase 2\tarea 2\operaciones logicas\operaciones logicas\bin\Debug\net8.0\operaciones logicas.deps.json
+C:\clase 2\tarea 2\operaciones logicas\operaciones logicas\bin\Debug\net8.0\operaciones logicas.runtimeconfig.json
+C:\clase 2\tarea 2\operaciones logicas\operaciones logicas\bin\Debug\net8.0\operaciones logicas.dll
+C:\clase 2\tarea 2\operaciones logicas\operaciones logicas\bin\Debug\net8.0\operaciones logicas.pdb
+C:\clase 2\tarea 2\operaciones logicas\operaciones logicas\obj\Debug\net8.0\operaciones logicas.dll
+C:\clase 2\tarea 2\operaciones logicas\operaciones logicas\obj\Debug\net8.0\refint\operaciones logicas.dll
+C:\clase 2\tarea 2\operaciones logicas\operaciones logicas\obj\Debug\net8.0\operaciones logicas.pdb
+C:\clase 2\tarea 2\operaciones logicas\operaciones logicas\obj\Debug\net8.0\operaciones logicas.genruntimeconfig.cache
+C:\clase 2\tarea 2\operaciones logicas\operaciones logicas\obj\Debug\net8.0\ref\operaciones logicas.dll
