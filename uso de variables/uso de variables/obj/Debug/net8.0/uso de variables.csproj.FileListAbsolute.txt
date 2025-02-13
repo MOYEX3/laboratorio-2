@@ -1,0 +1,14 @@
+C:\clase 2\uso de variables\uso de variables\obj\Debug\net8.0\uso de variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\clase 2\uso de variables\uso de variables\obj\Debug\net8.0\uso de variables.AssemblyInfoInputs.cache
+C:\clase 2\uso de variables\uso de variables\obj\Debug\net8.0\uso de variables.AssemblyInfo.cs
+C:\clase 2\uso de variables\uso de variables\obj\Debug\net8.0\uso de variables.csproj.CoreCompileInputs.cache
+C:\clase 2\uso de variables\uso de variables\bin\Debug\net8.0\uso de variables.exe
+C:\clase 2\uso de variables\uso de variables\bin\Debug\net8.0\uso de variables.deps.json
+C:\clase 2\uso de variables\uso de variables\bin\Debug\net8.0\uso de variables.runtimeconfig.json
+C:\clase 2\uso de variables\uso de variables\bin\Debug\net8.0\uso de variables.dll
+C:\clase 2\uso de variables\uso de variables\bin\Debug\net8.0\uso de variables.pdb
+C:\clase 2\uso de variables\uso de variables\obj\Debug\net8.0\uso de variables.dll
+C:\clase 2\uso de variables\uso de variables\obj\Debug\net8.0\refint\uso de variables.dll
+C:\clase 2\uso de variables\uso de variables\obj\Debug\net8.0\uso de variables.pdb
+C:\clase 2\uso de variables\uso de variables\obj\Debug\net8.0\uso de variables.genruntimeconfig.cache
+C:\clase 2\uso de variables\uso de variables\obj\Debug\net8.0\ref\uso de variables.dll

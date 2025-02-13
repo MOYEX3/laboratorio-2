@@ -1,0 +1,14 @@
+C:\clase 2\tarea 2\usuario y contraseña\usuario y contraseña\bin\Debug\net8.0\usuario y contraseña.exe
+C:\clase 2\tarea 2\usuario y contraseña\usuario y contraseña\bin\Debug\net8.0\usuario y contraseña.deps.json
+C:\clase 2\tarea 2\usuario y contraseña\usuario y contraseña\bin\Debug\net8.0\usuario y contraseña.runtimeconfig.json
+C:\clase 2\tarea 2\usuario y contraseña\usuario y contraseña\bin\Debug\net8.0\usuario y contraseña.dll
+C:\clase 2\tarea 2\usuario y contraseña\usuario y contraseña\bin\Debug\net8.0\usuario y contraseña.pdb
+C:\clase 2\tarea 2\usuario y contraseña\usuario y contraseña\obj\Debug\net8.0\usuario y contraseña.GeneratedMSBuildEditorConfig.editorconfig
+C:\clase 2\tarea 2\usuario y contraseña\usuario y contraseña\obj\Debug\net8.0\usuario y contraseña.AssemblyInfoInputs.cache
+C:\clase 2\tarea 2\usuario y contraseña\usuario y contraseña\obj\Debug\net8.0\usuario y contraseña.AssemblyInfo.cs
+C:\clase 2\tarea 2\usuario y contraseña\usuario y contraseña\obj\Debug\net8.0\usuario y contraseña.csproj.CoreCompileInputs.cache
+C:\clase 2\tarea 2\usuario y contraseña\usuario y contraseña\obj\Debug\net8.0\usuario y contraseña.dll
+C:\clase 2\tarea 2\usuario y contraseña\usuario y contraseña\obj\Debug\net8.0\refint\usuario y contraseña.dll
+C:\clase 2\tarea 2\usuario y contraseña\usuario y contraseña\obj\Debug\net8.0\usuario y contraseña.pdb
+C:\clase 2\tarea 2\usuario y contraseña\usuario y contraseña\obj\Debug\net8.0\usuario y contraseña.genruntimeconfig.cache
+C:\clase 2\tarea 2\usuario y contraseña\usuario y contraseña\obj\Debug\net8.0\ref\usuario y contraseña.dll
